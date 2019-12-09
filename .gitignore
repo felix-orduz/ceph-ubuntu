@@ -1,0 +1,4 @@
+.vagrant/
+ceph-node-ubuntu1/
+ceph-node-ubuntu2/
+ceph-node-ubuntu3/
